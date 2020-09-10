@@ -12,3 +12,6 @@
 1. [https://www.petanikode.com/nodejs-pemula/](https://www.petanikode.com/nodejs-pemula/)
 2. [tutorialspoint.com/nodejs](tutorialspoint.com/nodejs)
 3. [https://www.w3schools.com/nodejs/](https://www.w3schools.com/nodejs/)
+
+# Install Formidable for Upload Files
+`$ npm install formidable`
