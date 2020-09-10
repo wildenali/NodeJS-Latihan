@@ -15,3 +15,6 @@
 
 # Install Formidable for Upload Files
 `$ npm install formidable`
+
+# Install Nodemailer Module for Send Email
+`$ npm install nodemailer`
