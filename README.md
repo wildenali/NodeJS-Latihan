@@ -24,4 +24,8 @@
 `$ npm install mongodb`<br/>
 101 untuk akses MongoDB dengan Node.js
 
-# Install Express
+# Install Express dan teman temanya
+`$ npm install express --save`<br/>
+`$ npm install body-parser --save`<br/>
+`$ npm install cookie-parser --save`<br/>
+`$ npm install multer --save`<br/>
