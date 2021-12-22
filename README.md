@@ -1,3 +1,6 @@
+# Install NodeJS
+`$ npm init`
+
 # Cek NodeJS
 
 `$ node -v`
